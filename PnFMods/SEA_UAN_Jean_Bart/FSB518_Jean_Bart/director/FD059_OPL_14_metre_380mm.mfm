@@ -1,0 +1,22 @@
+<FD059_OPL_14_metre_380mm.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/director/FD059_OPL_14_metre_380mm_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/director/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/director/FD059_OPL_14_metre_380mm_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/director/FD059_OPL_14_metre_380mm_n.dds	</Texture>
+	</property>
+</FD059_OPL_14_metre_380mm.mfm>

@@ -1,0 +1,28 @@
+<FGM049_380mm_45_Mle_1935_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	150	</Int>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/gun/FGM049_380mm_45_Mle_1935_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/gun/FGM049_380mm_45_Mle_1935_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/gun/FGM049_380mm_45_Mle_1935_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/gun/FGM049_380mm_45_Mle_1935_n.dds	</Texture>
+	</property>
+</FGM049_380mm_45_Mle_1935_skinned.mfm>
