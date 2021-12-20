@@ -745,6 +745,222 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MP_FM001_Pelorus	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.2864 1.0880 0.3153 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM001_Pelorus_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.1740 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.2180 1.7388 0.0598 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM001_Pelorus_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.1740 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.2180 1.7388 0.0598 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM001_Pelorus_INDEX_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.2864 1.0880 0.3153 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM001_Pelorus_INDEX_4	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0295 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.2547 1.2350 -0.0032 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM001_Pelorus_INDEX_5	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0295 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.2547 1.2350 -0.0032 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM002_Binoculars	</identifier>
+				<transform>
+					<row0>	0.2588 0.0000 0.9659 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9659 0.0000 0.2588 0.0000	</row2>
+					<row3>	-0.5157 0.8973 0.0008 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM002_Binoculars_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.2588 0.0000 0.9659 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9659 0.0000 0.2588 0.0000	</row2>
+					<row3>	-0.5319 0.8973 -0.0708 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM002_Binoculars_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.2588 0.0000 -0.9659 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9659 0.0000 0.2588 0.0000	</row2>
+					<row3>	0.5157 0.8973 0.0008 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM002_Binoculars_INDEX_3	</identifier>
+				<transform>
+					<row0>	0.2588 0.0000 -0.9659 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9659 0.0000 0.2588 0.0000	</row2>
+					<row3>	0.5319 0.8973 -0.0708 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars	</identifier>
+				<transform>
+					<row0>	0.1736 0.0000 0.9848 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9848 0.0000 0.1736 0.0000	</row2>
+					<row3>	-0.2679 1.7437 -0.2083 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.1736 0.0000 -0.9848 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9848 0.0000 0.1736 0.0000	</row2>
+					<row3>	0.2351 1.7437 -0.0241 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_10	</identifier>
+				<transform>
+					<row0>	-0.7071 0.0000 -0.7071 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.7071 0.0000 -0.7071 0.0000	</row2>
+					<row3>	0.2781 1.2361 -0.6333 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_11	</identifier>
+				<transform>
+					<row0>	-0.7071 0.0000 0.7071 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.7071 0.0000 -0.7071 0.0000	</row2>
+					<row3>	-0.2781 1.2361 -0.6333 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_12	</identifier>
+				<transform>
+					<row0>	-0.1736 0.0000 0.9848 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9848 0.0000 -0.1736 0.0000	</row2>
+					<row3>	-0.2490 1.7437 -0.8724 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_13	</identifier>
+				<transform>
+					<row0>	-0.1736 0.0000 0.9848 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9848 0.0000 -0.1736 0.0000	</row2>
+					<row3>	-0.2656 1.7437 -0.7782 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.3334 1.2361 -0.5161 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_3	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.2929 1.0878 0.1878 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_4	</identifier>
+				<transform>
+					<row0>	0.1736 0.0000 -0.9848 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9848 0.0000 0.1736 0.0000	</row2>
+					<row3>	0.2679 1.7437 -0.2083 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_5	</identifier>
+				<transform>
+					<row0>	0.1736 0.0000 0.9848 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9848 0.0000 0.1736 0.0000	</row2>
+					<row3>	-0.2351 1.7437 -0.0241 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_6	</identifier>
+				<transform>
+					<row0>	-0.1736 0.0000 -0.9848 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9848 0.0000 -0.1736 0.0000	</row2>
+					<row3>	0.2656 1.7437 -0.7782 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_7	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.2929 1.0878 0.1878 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_8	</identifier>
+				<transform>
+					<row0>	-0.1736 0.0000 -0.9848 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9848 0.0000 -0.1736 0.0000	</row2>
+					<row3>	0.2490 1.7437 -0.8724 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM008_Binoculars_INDEX_9	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.3334 1.2361 -0.5161 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MP_CM092_Siren	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
@@ -754,12 +970,57 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CTB1892	</identifier>
+				<identifier>	MP_FM501_9m_cutter	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.9685 -0.7766 1.0000	</row3>
+					<row3>	0.4190 0.9357 -1.5259 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM501_9m_cutter_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.4190 0.9357 -1.5259 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM503_13m_Barkasse	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.2297 0.8976 -1.2499 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM503_13m_Barkasse_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.2297 0.8976 -1.2499 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM504_11m_motor_launch	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1133 1.1189 -1.2050 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM504_11m_motor_launch_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1133 1.1189 -1.2050 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -769,6 +1030,69 @@
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
 					<row3>	0.0000 0.8966 -1.2499 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM522_Plate_3m	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1140 1.1990 -1.1744 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM522_Plate_3m_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1140 1.1990 -1.1744 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM522_Plate_3m_INDEX_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.9985 -0.0539 0.0000	</row1>
+					<row2>	0.0000 0.0539 0.9985 0.0000	</row2>
+					<row3>	-0.2839 0.9729 -1.1923 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM525_5m_motorboat	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.6858 0.9118 -1.2774 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM525_5m_motorboat_INDEX_1	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.6858 0.9118 -1.2774 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM532_Whaleboat_7m	</identifier>
+				<transform>
+					<row0>	0.9995 0.0000 -0.0304 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0304 0.0000 0.9995 0.0000	</row2>
+					<row3>	1.0748 0.6464 -1.6610 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM532_Whaleboat_7m_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.9995 0.0000 0.0304 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.0304 0.0000 0.9995 0.0000	</row2>
+					<row3>	-1.0748 0.6464 -1.6610 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -790,6 +1114,24 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MP_FM850_120cm_Searchlight	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.2300 1.6152 -1.5991 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM850_120cm_Searchlight_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.2300 1.6152 -1.5991 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MP_FM854_Running_Light_R	</identifier>
 				<transform>
 					<row0>	1.1066 0.0000 0.0000 0.0000	</row0>
@@ -808,6 +1150,33 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MP_FM856_Signal_Lamp	</identifier>
+				<transform>
+					<row0>	-0.5527 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 -0.5527 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.5527 0.0000	</row2>
+					<row3>	-0.2675 2.9196 -0.7982 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM856_Signal_Lamp_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.5527 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 -0.5527 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.5527 0.0000	</row2>
+					<row3>	0.2675 2.9196 -0.7982 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM856_Signal_Lamp_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0286 0.0000	</row0>
+					<row1>	0.0000 0.7774 0.0000 0.0000	</row1>
+					<row2>	1.0286 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.0000 3.4124 -0.8703 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MP_FM860_Running_Lights_Back	</identifier>
 				<transform>
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
@@ -817,156 +1186,93 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FTB0803	</identifier>
+				<identifier>	MP_FM866_Signal_lamp	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.3539 0.1240 1.0000	</row3>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.3771 1.0872 -0.5089 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FTB0804	</identifier>
+				<identifier>	MP_FM866_Signal_lamp_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.8973 -0.0350 1.0000	</row3>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.3771 1.0872 -0.5089 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FTB0806	</identifier>
+				<identifier>	MP_FM867_Searchlight_60cm	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.8976 -1.2499 1.0000	</row3>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.1634 1.9082 -0.6580 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FTB0807	</identifier>
+				<identifier>	MP_FM867_Searchlight_60cm_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.6464 -1.6610 1.0000	</row3>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.1634 1.9082 -0.6580 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FTB0808	</identifier>
+				<identifier>	MP_FM868_Daylight_signaling_lantern	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.5049 -0.4064 1.0000	</row3>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.4761 1.7204 -0.6394 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FTB0809	</identifier>
+				<identifier>	MP_FM868_Daylight_signaling_lantern_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.7204 -0.6394 1.0000	</row3>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.4761 1.7204 -0.6394 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FTB0810	</identifier>
+				<identifier>	MP_FM872_Searchlight_sight	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.9082 -0.6580 1.0000	</row3>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.3696 1.3935 -0.2468 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FTB0811	</identifier>
+				<identifier>	MP_FM872_Searchlight_sight_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.7667 -1.7183 1.0000	</row3>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.3696 1.3935 -0.2468 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FTB0812	</identifier>
+				<identifier>	MP_FM874_Searchlight_90cm	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.0872 -0.5089 1.0000	</row3>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.4726 1.5908 -0.3485 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_FTB0818	</identifier>
+				<identifier>	MP_FM874_Searchlight_90cm_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.1189 -1.2050 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_FTB0819	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.9357 -1.5259 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_FTB0820	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.9118 -1.2774 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_FTB0821	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.0946 1.1237 -1.1804 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_FTB0822	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.5908 -0.3485 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_FTB0823	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.6152 -1.5991 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_FTB0824	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 3.0838 -0.8222 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_FTB0825	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 1.3935 -0.2468 1.0000	</row3>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.4726 1.5908 -0.3485 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
