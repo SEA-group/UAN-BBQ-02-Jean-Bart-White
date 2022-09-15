@@ -13,6 +13,7 @@
 		<Int>	150	</Int>
 	</property>
 	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/gun/FGM049_380mm_45_Mle_1935_ao.dds	</Texture>
 	</property>
