@@ -1,17 +1,8 @@
 <FRS042_DRBV_11.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/radar/lods/FRS042_DRBV_11_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/radar/FRS042_DRBV_11	</nodefullVisual>
-	<animation>
-		<name>	Rotation5rpm	</name>
-		<frameRate>	30.0000	</frameRate>
-		<nodes>	content/animation/common/Rotation5rpm	</nodes>
-	</animation>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation5rpm	</animation>
-		<filler>	true	</filler>
-	</action>
+	<visual>	PnFMods/SEA_UAN_Jean_Bart/FSB518_Jean_Bart/radar/FRS042_DRBV_11.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/FRS042_DRBV_11/FRS042_DRBV_11.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </FRS042_DRBV_11.model>
